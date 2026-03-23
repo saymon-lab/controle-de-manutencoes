@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Sistema de Controle de Manutenções
 
-# Run and deploy your AI Studio app
+Aplicação web desenvolvida com foco em organização e controle de manutenções, permitindo melhor gestão de informações e processos.
 
-This contains everything you need to run your app locally.
+## 🚀 Tecnologias utilizadas
+- React
+- TypeScript
+- HTML5
+- CSS
 
-View your app in AI Studio: https://ai.studio/apps/2f8b1146-f151-48a1-a5aa-6e3dd73a246e
+## 📌 Funcionalidades
+- Controle de registros de manutenção
+- Organização de dados
+- Interface interativa
+- Estrutura baseada em componentes
 
-## Run Locally
+## 🎯 Objetivo
+Projeto desenvolvido para prática de desenvolvimento web e evolução em programação, com foco em aplicações modernas.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 👨‍💻 Autor
+Adrian Saymon
